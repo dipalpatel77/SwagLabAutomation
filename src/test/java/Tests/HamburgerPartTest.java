@@ -12,6 +12,8 @@ import utils.BaseTest;
 import utils.ConfigReader;
 import utils.PageObjectManger;
 
+import java.time.Duration;
+
 public class HamburgerPartTest extends BaseTest {
     PageObjectManger pageObjectManger;
     SoftAssert softAssert;
